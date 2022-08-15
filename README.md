@@ -1,13 +1,7 @@
    # Classification of Data
-    #### [Video Demo]:  <https://www.youtube.com/watch?v=sXB2vfpMBF0>
+    #### [Vedio Demo]:  <https://www.youtube.com/watch?v=sXB2vfpMBF0>
     #### Description:
-
-
-
-https://user-images.githubusercontent.com/87776461/184582791-f800fe97-2352-470a-9bc7-a4feb1a6ab1d.mp4
-
-
-
+    
 Hello world this my CS50 final project. I am Basit Hussain from Gilgit Baltistan Pakistan. My final project is about is about classificatioin of Data. I write some code to make to classify a data of the new student of the university.
 
 So basically in this project I am going to receive one csv file with a data of 10 new students of University. Let's say this file is name is new_student.csv This csv file contains the name of the sudents, Courses of the sudents and date of birth of the sudents. foloeng are the data in new_student.csv.
